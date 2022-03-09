@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rodnei Gustavo
+- 👀 Tenho interesse em aprender mais sobre desenvolvimento de sistemas e  entrar na area da TI o mais breve possivel.
+- 🌱 Atualmente estou estudando Análise e desenvolvimento de sistemas na FAM
+- 💞️ Estou procurando colaborar em desenvolvimento de sistemas,desenvolvimento beck end,liguagem Java, C, C++ e HTML com CSS.
+- 📫 How to reach me : E-mail  - rodneigstv@hotmail.com  TEL: (11) 9-8192-8385.
